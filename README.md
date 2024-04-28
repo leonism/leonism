@@ -12,18 +12,23 @@
 
 ---
 
-🚀 The Gemika SEO Audit Gem 🚀 
+### 🚀 The Gemika SEO Audit Gem 
 
 A powerful Ruby library designed to help developers conduct comprehensive SEO audits of their websites. It includes features like keyword analysis, mobile-friendliness checks, structured data validation, and much more. 
-✨[https://github.com/leonism/gemika_seo_audit_gem/](https://github.com/leonism/gemika_seo_audit_gem/)
 
-🚀 Python Utilities 🚀 
+🔥[https://github.com/leonism/gemika_seo_audit_gem/](https://github.com/leonism/gemika_seo_audit_gem/)
+
+
+### 🚀 Python Utilities
 
 A compilation of Python scripts designed to assist individuals in their daily routines, whether they're tech enthusiasts, digital marketers, or anyone else in the spectrum. These scripts serve as indispensable companions, empowering users to navigate the complexities of modern life with unparalleled efficiency and ease. 
-✨[https://github.com/leonism/python-utilities/](https://github.com/leonism/python-utilities/)
 
-🚀 The Gemika JSON - LD Images Schema 🚀 
+🔥[https://github.com/leonism/python-utilities/](https://github.com/leonism/python-utilities/)
+
+
+### 🚀 The Gemika JSON - LD Images Schema
 
 Discover this exceptional gem, crafted to simplify adding structured data to your website. Enhance visibility and accessibility to search engines effortlessly, bidding farewell to manual complexities and embracing digital efficiency.
-✨[https://github.com/leonism/gemika-json-ld-images/](https://github.com/leonism/gemika-json-ld-images/)
+
+🔥[https://github.com/leonism/gemika-json-ld-images/](https://github.com/leonism/gemika-json-ld-images/)
 
